@@ -1,7 +1,11 @@
-<h1 align="center"> Flix <h1>
+<h1 align="center"> Flixster <h1>
 
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+Flister is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
 ---
 
+
+<p align="center">
 ## Flixster
+   <img src="flixster.gif" width=250><br>
+ </p>
